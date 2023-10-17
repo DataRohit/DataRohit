@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with Web Development and Deep Learning.
 - 💬 Ask me about Machine Learning, Deep Learning, Computer Vision
 - 📫 How to reach me  - [@Rohit Ingole](https://www.linkedin.com/in/rohit-vilas-ingole/), [Kaggle](https://www.kaggle.com/datarohitingole)
-![](https://activity-graph.herokuapp.com/graph?username=DataRohit&theme=react-dark&hide_border=true)
+![](https://activity-graph.herokuapp.com/graph?username=DataRohit&theme=react-dark&hide_border=true), [Carrd](https://rohitingole.carrd.co/)
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DataRohit&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
