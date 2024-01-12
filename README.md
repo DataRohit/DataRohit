@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datarohit&label=Profile%20views&color=0e75b6&style=flat" alt="datarohit" /> </p>
 
 - 🔭 I’m currently working on Django, Django REST Framework, Machine Learning and Deep Learning
-- 🌱 I’m currently learning Natural Langauge Processing, HyperParameter Tuning and Web Development.
-- 🤔 I’m looking for help with Web Development and Deep Learning.
-- 💬 Ask me about Machine Learning, Deep Learning, Computer Vision
+- 🌱 I’m currently learning Django, Backend Development, Audio and Image Processing for Deep Learning.
+- 🤔 I’m looking for help with Django Developlement and Deep Learning.
+- 💬 Ask me about Python, Django, Django REST, Machine Learning, Deep Learning
 - 📫 How to reach me  - [@Rohit Ingole](https://www.linkedin.com/in/rohit-vilas-ingole/), [Kaggle](https://www.kaggle.com/datarohitingole)
 ![](https://activity-graph.herokuapp.com/graph?username=DataRohit&theme=react-dark&hide_border=true), [Carrd](https://rohitingole.carrd.co/)
 
