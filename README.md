@@ -1,5 +1,5 @@
 <div align="center" style="margin: 20px 0;">
-<h1 align="center" style="padding-bottom: 80px;">Hi 👋, I'm Rohit Ingole</h1>
+<h1 align="center">Hi 👋, I'm Rohit Ingole</h1>
 <h3 align="center">I’m a B. Tech Data Science student focused on backend development with Python, Django, FastAPI, and Go. I enjoy tackling complex problems and bringing ideas to life through code. Right now, I'm diving into microservice architectures with Go and FastAPI, blending classroom learning with hands-on experience to build smarter data-driven solutions.</h3>
 
 </div>
