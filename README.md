@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datarohit&label=Profile%20views&color=0e75b6&style=flat" alt="datarohit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datarohit" alt="datarohit" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datarohit&row=2&column=3" alt="datarohit" /></a> </p>
 
 - 🌱 I’m currently learning **Micro-service Architecture, gRPC, Protocol Buffers and Asynchronous Programming in Python and Go Lang**
 
