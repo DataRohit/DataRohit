@@ -160,8 +160,15 @@
 
 ---
 
-<p align="center" style="margin-top: 20px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=datarohit&show_icons=true&locale=en&layout=compact" alt="datarohit" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datarohit&show_icons=true&locale=en" alt="datarohit" /></p>
+<table>
+  <tr>
+    <td align="center" style="width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=datarohit&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    </td>
+    <td align="center" style="width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=datarohit&show_icons=true&locale=en" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datarohit&" alt="datarohit" /></p>
