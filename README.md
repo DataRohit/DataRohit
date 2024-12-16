@@ -41,9 +41,9 @@
 
 ---
 
-<table align="center">
+<table align="center" style="width:100%;">
   <tr>
-    <td>
+    <td style="width:50%; vertical-align:top;">
       <h3 align="center">Frontend Development</h3>
       <p align="center">
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -60,7 +60,7 @@
         </a>
       </p>
     </td>
-    <td>
+    <td style="width:50%; vertical-align:top;">
       <h3 align="center">Backend Development</h3>
       <p align="center">
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -79,7 +79,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="width:50%; vertical-align:top;">
       <h3 align="center">Data Science and Machine Learning</h3>
       <p align="center">
         <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -105,7 +105,7 @@
         </a>
       </p>
     </td>
-    <td>
+    <td style="width:50%; vertical-align:top;">
       <h3 align="center">Databases</h3>
       <p align="center">
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -127,7 +127,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="width:50%; vertical-align:top;">
       <h3 align="center">DevOps and Tools</h3>
       <p align="center">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -147,7 +147,7 @@
         </a>
       </p>
     </td>
-    <td>
+    <td style="width:50%; vertical-align:top;">
       <h3 align="center">Operating Systems</h3>
       <p align="center">
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
