@@ -160,15 +160,18 @@
 
 ---
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" style="width: 50%;">
+    <td align="center" style="width: 50%; border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=datarohit&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     </td>
-    <td align="center" style="width: 50%;">
+    <td align="center" style="width: 50%; border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=datarohit&show_icons=true&locale=en" alt="GitHub Stats" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center" style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=datarohit&" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
 </table>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datarohit&" alt="datarohit" /></p>
