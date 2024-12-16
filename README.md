@@ -42,7 +42,7 @@
 ---
 
 <table align="center" style="width:100%;">
-  <tr>
+  <tr style="width:100%;">
     <td style="width:50%; vertical-align:top;">
       <h3 align="center">Frontend Development</h3>
       <p align="center">
@@ -78,7 +78,7 @@
       </p>
     </td>
   </tr>
-  <tr>
+  <tr style="width:100%;">
     <td style="width:50%; vertical-align:top;">
       <h3 align="center">Data Science and Machine Learning</h3>
       <p align="center">
@@ -126,7 +126,7 @@
       </p>
     </td>
   </tr>
-  <tr>
+  <tr style="width:100%;">
     <td style="width:50%; vertical-align:top;">
       <h3 align="center">DevOps and Tools</h3>
       <p align="center">
