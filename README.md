@@ -175,3 +175,31 @@
     </td>
   </tr>
 </table>
+
+---
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [79.0025, 21.0950],
+            [79.1025, 21.0950],
+            [79.1025, 21.1950],
+            [79.0025, 21.1950],
+            [79.0025, 21.0950]
+          ]
+        ]
+      }
+    }
+  ]
+}
+
