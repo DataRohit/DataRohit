@@ -160,7 +160,7 @@
 
 ---
 
-<table>
+<table align="center">
   <tr>
     <td align="center" style="width: 50%;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=datarohit&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
