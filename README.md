@@ -178,7 +178,8 @@
 
 ---
 
-```{
+```geojson
+{
   "type": "FeatureCollection",
   "features": [
     {
@@ -201,5 +202,5 @@
       }
     }
   ]
-}```
+}
 
