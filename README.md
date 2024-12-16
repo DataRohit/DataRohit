@@ -178,7 +178,7 @@
 
 ---
 
-{
+```{
   "type": "FeatureCollection",
   "features": [
     {
@@ -201,5 +201,5 @@
       }
     }
   ]
-}
+}```
 
