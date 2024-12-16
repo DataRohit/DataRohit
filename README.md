@@ -169,11 +169,12 @@
 
 <h3 align="center">Profile Views</h3>
 <p align="center">
-
-  ![](https://count.getloli.com/get/@datarohit.github.readme)
-  
+  <img src="https://count.getloli.com/get/@datarohit.github.readme" alt="Profile Views">
 </p>
 
+---
+
+<h3 align="center">Profile Trophies</h3>
 <div align="center" style="margin: 20px 0;">
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datarohit&row=2&column=3" alt="datarohit" /></a> </p>
 </div>
