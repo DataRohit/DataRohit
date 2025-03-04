@@ -31,16 +31,7 @@
 
 ---
 
-<h3 align="center">Activity</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Datarohit/Datarohit/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Datarohit/Datarohit/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Datarohit/Datarohit/output/github-snake.svg" />
-</picture>
-
----
-
-
+<h3 align="center">Tech Stack</h3>
 <table align="center">
   <tr>
     <td>
@@ -160,6 +151,7 @@
 
 ---
 
+<h3 align="center">Activity</h3>
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" style="width: 50%; border: none;">
@@ -172,6 +164,15 @@
   <tr>
     <td colspan="2" align="center" style="border: none;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=datarohit&" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="border: none;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Datarohit/Datarohit/output/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Datarohit/Datarohit/output/github-snake.svg" />
+        <img alt="github-snake" src="https://raw.githubusercontent.com/Datarohit/Datarohit/output/github-snake.svg" />
+      </picture>
     </td>
   </tr>
 </table>
