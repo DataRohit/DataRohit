@@ -190,7 +190,7 @@
 
 <h3 align="center">Profile Trophies</h3>
 <div align="center" style="margin: 20px 0;">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datarohit&row=1&column=6" alt="datarohit" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datarohit&theme=onedark&row=1&column=6" alt="datarohit" /></a> </p>
 </div>
 
 ---
