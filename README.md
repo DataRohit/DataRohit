@@ -196,6 +196,7 @@
 ---
 
 <h3 align="center">Location</h3>
+
 ```geojson
 {
   "type": "FeatureCollection",
