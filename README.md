@@ -9,6 +9,8 @@
 
 <div align="center" style="margin: 20px 0;">
 
+<h3 align="center">Bio</h3>
+
 <p align="center">🌱 I’m currently learning <strong>Micro-service Architecture, gRPC, Protocol Buffers and <br>Asynchronous Programming in Python and Go Lang</strong></p>
 
 <p align="center">👨‍💻 All of my projects are available at <br><strong><a href="https://github.com/DataRohit" alt="datarohit">https://github.com/DataRohit</a></strong></p>
@@ -193,6 +195,7 @@
 
 ---
 
+<h3 align="center">Location</h3>
 ```geojson
 {
   "type": "FeatureCollection",
