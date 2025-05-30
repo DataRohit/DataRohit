@@ -29,7 +29,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/rohit-vilas-ingole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-vilas-ingole" height="30" width="40" /></a>
 <a href="https://kaggle.com/datarohitingole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="datarohitingole" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=6cUv5BwAAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1200px-Google_Scholar_logo.svg.png" alt="rohit-vilas-ingole" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=6cUv5BwAAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1200px-Google_Scholar_logo.svg.png" alt="rohit-vilas-ingole" height="30" width="30" /></a>
 </p>
 
 ---
