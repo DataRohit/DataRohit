@@ -143,7 +143,7 @@
           <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
         </a>
         <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="40" height="40"/>
+          <img src="https://www.svgrepo.com/show/354365/sonarqube.svg" alt="sonarqube" width="40" height="40"/>
         </a>
         <a href="https://min.io/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" alt="minio" width="40" height="40"/>
