@@ -178,8 +178,30 @@
         <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
         </a>
+        <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+        </a>
       </p>
     </td>
+    <td>
+      <h3 align="center">AI & WebRTC</h3>
+      <p align="center">
+        <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+          <img src="https://python.langchain.com/img/brand/wordmark.png" alt="langchain" width="80" height="40"/>
+        </a>
+        <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
+          <img src="https://python.langchain.com/img/brand/wordmark.png" alt="langgraph" width="80" height="40"/>
+        </a>
+        <a href="https://microsoft.github.io/autogen/" target="_blank" rel="noreferrer">
+          <img src="https://microsoft.github.io/autogen/img/ag.svg" alt="autogen" width="40" height="40"/>
+        </a>
+        <a href="https://livekit.io/" target="_blank" rel="noreferrer">
+          <img src="https://livekit.io/images/livekit-mark-black.svg" alt="livekit" width="40" height="40"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td>
       <h3 align="center">Operating Systems</h3>
       <p align="center">
@@ -188,6 +210,7 @@
         </a>
       </p>
     </td>
+    <td></td>
   </tr>
 </table>
 
