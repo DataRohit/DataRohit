@@ -184,7 +184,7 @@
       </p>
     </td>
     <td>
-      <h3 align="center">AI & WebRTC</h3>
+      <h3 align="center">AI & LLMs</h3>
       <p align="center">
         <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
           <img src="https://python.langchain.com/img/brand/wordmark.png" alt="langchain" width="80" height="40"/>
@@ -193,20 +193,34 @@
           <img src="https://python.langchain.com/img/brand/wordmark.png" alt="langgraph" width="80" height="40"/>
         </a>
         <a href="https://microsoft.github.io/autogen/" target="_blank" rel="noreferrer">
-          <img src="https://microsoft.github.io/autogen/img/ag.svg" alt="autogen" width="40" height="40"/>
-        </a>
-        <a href="https://livekit.io/" target="_blank" rel="noreferrer">
-          <img src="https://livekit.io/images/livekit-mark-black.svg" alt="livekit" width="40" height="40"/>
+          <img src="https://camo.githubusercontent.com/ef7d1a44f4abc5699119b28077235bbda84152fa2d74a4ea5abc7d1bccffdcbd/68747470733a2f2f6d6963726f736f66742e6769746875622e696f2f6175746f67656e2f302e322f696d672f61672e737667" alt="autogen" width="40" height="40"/>
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td>
+      <h3 align="center">WebRTC & Real-time Communication</h3>
+      <p align="center">
+        <a href="https://livekit.io/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" alt="livekit" width="40" height="40"/>
+        </a>
+      </p>
+    </td>
+    <td>
       <h3 align="center">Operating Systems</h3>
       <p align="center">
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+        <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="fedora" width="40" height="40"/>
+        </a>
+        <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+          <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="ubuntu" width="40" height="40"/>
+        </a>
+        <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="arch" width="40" height="40"/>
+        </a>
+        <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="40" height="40"/>
         </a>
       </p>
     </td>
