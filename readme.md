@@ -1,7 +1,7 @@
 <div align="center" style="margin: 20px 0;">
 <img align="center" src="https://github.com/DataRohit/DataRohit/blob/main/banner.png" alt="rohit-vilas-ingole" width="100%" />
 <h1 align="center">Hi 👋, I'm Rohit Ingole</h1>
-<h3 align="center">I’m a B. Tech Data Science student focused on backend development with Python, Django, FastAPI, and Go. I enjoy tackling complex problems and bringing ideas to life through code. Right now, I'm diving into microservice architectures with Go and FastAPI, blending classroom learning with hands-on experience to build smarter data-driven solutions.</h3>
+<h3 align="center">I'm a B. Tech Data Science student focused on backend development with Python, Django, FastAPI, and Go. I enjoy tackling complex problems and bringing ideas to life through code. Right now, I'm diving into microservice architectures with Go and FastAPI, blending classroom learning with hands-on experience to build smarter data-driven solutions.</h3>
 
 </div>
 
@@ -11,7 +11,7 @@
 
 <h3 align="center">Bio</h3>
 
-<p align="center">🌱 I’m currently learning <strong>Micro-service Architecture, gRPC, Protocol Buffers and <br>Asynchronous Programming in Python and Go Lang</strong></p>
+<p align="center">🌱 I'm currently learning <strong>Micro-service Architecture, gRPC, Protocol Buffers and <br>Asynchronous Programming in Python and Go Lang</strong></p>
 
 <p align="center">👨‍💻 All of my projects are available at <br><strong><a href="https://github.com/DataRohit" alt="datarohit">https://github.com/DataRohit</a></strong></p>
 
@@ -63,11 +63,17 @@
         <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" width="70" height="40"/>
         </a>
-        <a href="https://nginx.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+        <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
         </a>
         <a href="https://go.dev/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+        </a>
+        <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+        </a>
+        <a href="https://docs.celeryq.dev/" target="_blank" rel="noreferrer">
+          <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="celery" width="40" height="40"/>
         </a>
       </p>
     </td>
@@ -117,27 +123,60 @@
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
         </a>
+        <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
+        </a>
+        <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
+        </a>
       </p>
     </td>
   </tr>
   <tr>
     <td>
-      <h3 align="center">DevOps and Tools</h3>
+      <h3 align="center">DevOps and Containerization</h3>
       <p align="center">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
         </a>
+        <a href="https://postman.com" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+        </a>
+        <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="40" height="40"/>
+        </a>
+        <a href="https://min.io/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" alt="minio" width="40" height="40"/>
+        </a>
+      </p>
+    </td>
+    <td>
+      <h3 align="center">Monitoring and Observability</h3>
+      <p align="center">
         <a href="https://grafana.com" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+        </a>
+        <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
         </a>
         <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
         </a>
+        <a href="https://www.jaegertracing.io/" target="_blank" rel="noreferrer">
+          <img src="https://www.jaegertracing.io/img/jaeger-icon-color.png" alt="jaeger" width="40" height="40"/>
+        </a>
+        <a href="https://opentelemetry.io/" target="_blank" rel="noreferrer">
+          <img src="https://opentelemetry.io/img/logos/opentelemetry-logo-nav.png" alt="opentelemetry" width="40" height="40"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3 align="center">Message Queues</h3>
+      <p align="center">
         <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
-        </a>
-        <a href="https://postman.com" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
         </a>
       </p>
     </td>
@@ -220,4 +259,4 @@
     }
   ]
 }
-
+```
