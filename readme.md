@@ -217,7 +217,7 @@
           <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="ubuntu" width="40" height="40"/>
         </a>
         <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-          <img src="https://www.vhv.rs/dpng/d/76-762941_archlinux-icon-crystal-arch-linux-icon-png-transparent.png" alt="arch" width="40" height="40"/>
+          <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="arch" width="40" height="40"/>
         </a>
         <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
           <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="40" height="40"/>
