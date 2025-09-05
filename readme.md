@@ -15,7 +15,7 @@
 
 <p align="center">👨‍💻 All of my projects are available at <br><strong><a href="https://github.com/DataRohit" alt="datarohit">https://github.com/DataRohit</a></strong></p>
 
-<p align="center">💬 Ask me about<br><strong>Python, Go Lang, Backend Development, Microservices and Machine Learning</strong></p>
+<p align="center">💬 Ask me about<br><strong>Python, Go Lang, Backend Development, Artificial Intelligence, MCP, Agent-2-Agent and AI Agents</strong></p>
 
 <p align="center">How to reach me<br><strong>rohit.vilas.ingole@gmail.com</strong></p>
 
