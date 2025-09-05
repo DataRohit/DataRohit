@@ -1,7 +1,7 @@
 <div align="center" style="margin: 20px 0;">
 <img align="center" src="https://github.com/DataRohit/DataRohit/blob/main/banner.png" alt="rohit-vilas-ingole" width="100%" />
 <h1 align="center">Hi 👋, I'm Rohit Ingole</h1>
-<h3 align="center">I'm a B. Tech Data Science student focused on backend development with Python, Django, FastAPI, and Go. I enjoy tackling complex problems and bringing ideas to life through code. Right now, I'm diving into microservice architectures with Go and FastAPI, blending classroom learning with hands-on experience to build smarter data-driven solutions.</h3>
+<h3 align="center">I have a B.Tech in Data Science and am currently undergoing Specialist Programmer training at Infosys. I focus on backend development with Python, Django, FastAPI, and Go, and am passionate about building AI coding agents using MCP tools and A2A (agent-to-agent) communication protocol to create intelligent, autonomous systems.</h3>
 
 </div>
 
@@ -11,7 +11,7 @@
 
 <h3 align="center">Bio</h3>
 
-<p align="center">🌱 I'm currently learning <strong>Micro-service Architecture, gRPC, Protocol Buffers and <br>Asynchronous Programming in Python and Go Lang</strong></p>
+<p align="center">🌱 I'm currently learning <strong>building AI coding agents using MCP tools and A2A (agent-to-agent) communication protocol</strong></p>
 
 <p align="center">👨‍💻 All of my projects are available at <br><strong><a href="https://github.com/DataRohit" alt="datarohit">https://github.com/DataRohit</a></strong></p>
 
