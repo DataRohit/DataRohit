@@ -187,13 +187,16 @@
       <h3 align="center">AI & LLMs</h3>
       <p align="center">
         <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-          <img src="https://i.ibb.co/vxkXJSCj/langchain.png" alt="langchain" width="80" height="40"/>
+          <img src="https://i.ibb.co/B24tkWqY/langchain.png" alt="langchain" width="80" height="40"/>
         </a>
         <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
-          <img src="https://python.langchain.com/img/brand/wordmark.png" alt="langgraph" width="80" height="40"/>
+          <img src="https://i.ibb.co/ks4rYdTF/langgraph.png" alt="langgraph" width="80" height="40"/>
+        </a>
+        <a href="https://www.langchain.com/langsmith" target="_blank" rel="noreferrer">
+          <img src="https://i.ibb.co/xSyqyh99/langsmith.png" alt="langgraph" width="80" height="40"/>
         </a>
         <a href="https://microsoft.github.io/autogen/" target="_blank" rel="noreferrer">
-          <img src="https://camo.githubusercontent.com/ef7d1a44f4abc5699119b28077235bbda84152fa2d74a4ea5abc7d1bccffdcbd/68747470733a2f2f6d6963726f736f66742e6769746875622e696f2f6175746f67656e2f302e322f696d672f61672e737667" alt="autogen" width="40" height="40"/>
+          <img src="https://i.ibb.co/5WTcQFSx/autogen.png" alt="autogen" width="40" height="40"/>
         </a>
       </p>
     </td>
