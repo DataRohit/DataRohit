@@ -37,7 +37,7 @@
 <h3 align="center">Tech Stack</h3>
 <table align="center">
   <tr>
-    <td style="padding-bottom: 30px;">
+    <td>
       <h3 align="center">Frontend Development</h3>
       <p align="center">
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -54,7 +54,7 @@
         </a>
       </p>
     </td>
-    <td style="padding-bottom: 30px;">
+    <td>
       <h3 align="center">Backend Development</h3>
       <p align="center">
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
