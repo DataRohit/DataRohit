@@ -201,6 +201,9 @@
         <a href="https://github.com/microsoft/agent-framework" target="_blank" rel="noreferrer">
           <img src="https://i.ibb.co/hpbFcNM/microsoft-agent-framework.png" alt="autogen" width="40" height="40"/>
         </a>
+        <a href="https://modelcontextprotocol.io/docs/getting-started/intro" target="_blank" rel="noreferrer">
+          <img src="https://i.ibb.co/xKpFJxK1/modelcontextprotocol.png" alt="autogen" width="40" height="40"/>
+        </a>
       </p>
     </td>
   </tr>
