@@ -187,13 +187,13 @@
       <h3 align="center">AI & LLMs</h3>
       <p align="center">
         <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-          <img src="https://i.ibb.co/B24tkWqY/langchain.png" alt="langchain" width="80" height="40"/>
+          <img src="https://i.ibb.co/B24tkWqY/langchain.png" alt="langchain" width="80" height="80"/>
         </a>
         <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
-          <img src="https://i.ibb.co/ks4rYdTF/langgraph.png" alt="langgraph" width="80" height="40"/>
+          <img src="https://i.ibb.co/ks4rYdTF/langgraph.png" alt="langgraph" width="80" height="80"/>
         </a>
         <a href="https://www.langchain.com/langsmith" target="_blank" rel="noreferrer">
-          <img src="https://i.ibb.co/xSyqyh99/langsmith.png" alt="langgraph" width="80" height="40"/>
+          <img src="https://i.ibb.co/xSyqyh99/langsmith.png" alt="langgraph" width="80" height="80"/>
         </a>
         <a href="https://microsoft.github.io/autogen/" target="_blank" rel="noreferrer">
           <img src="https://i.ibb.co/5WTcQFSx/autogen.png" alt="autogen" width="40" height="40"/>
