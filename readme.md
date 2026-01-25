@@ -54,7 +54,7 @@
         </a>
       </p>
     </td>
-    <td>
+    <td style="padding-bottom: 30px;">
       <h3 align="center">Backend Development</h3>
       <p align="center">
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
