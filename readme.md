@@ -37,7 +37,7 @@
 <h3 align="center">Tech Stack</h3>
 <table align="center">
   <tr>
-    <td style="padding-botton: 30px;">
+    <td style="padding-bottom: 30px;">
       <h3 align="center">Frontend Development</h3>
       <p align="center">
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
