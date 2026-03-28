@@ -1,300 +1,205 @@
-<div align="center" style="margin: 20px 0;">
-<img align="center" src="https://github.com/DataRohit/DataRohit/blob/main/banner.png" alt="rohit-vilas-ingole" width="100%" />
-<h1 align="center">Hi 👋, I'm Rohit Ingole</h1>
-<h3 align="center">I have a B.Tech in Data Science and am currently undergoing Specialist Programmer training at Infosys. I focus on backend development with Python, Django, FastAPI, and Go, and am passionate about building AI coding agents using MCP tools and A2A (agent-to-agent) communication protocol to create intelligent, autonomous systems.</h3>
+<div align="center">
+
+<img src="https://github.com/DataRohit/DataRohit/blob/main/banner.png" alt="Rohit Vilas Ingole" width="100%" />
+
+<h1>Rohit Vilas Ingole</h1>
+
+<h3>Specialist Programmer @ Infosys · Python · Go · AI Agents · Backend · Data Engineering</h3>
+
+<p>
+  <a href="https://linkedin.com/in/rohit-vilas-ingole">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/DataRohit">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://kaggle.com/datarohitingole">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=6cUv5BwAAAAJ">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
+  <a href="mailto:rohit.vilas.ingole@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-<div align="center" style="margin: 20px 0;">
+## 👨‍💻 About Me
 
-<h3 align="center">Bio</h3>
+I'm a **Specialist Programmer at Infosys**, Hyderabad, building **agentic AI solutions** for Microsoft — automating data pipelines, data mastering, and data management workflows that previously required manual intervention.
 
-<p align="center">🌱 I'm currently learning <strong>building AI coding agents using MCP tools and A2A (agent-to-agent) communication protocol</strong></p>
+With a **B.Tech in Data Science (CGPA: 9.34)** from G.H. Raisoni College of Engineering, I bring hands-on experience across backend engineering, machine learning, and cutting-edge AI agent frameworks. I've authored **5 research papers** (2 in Q-ranked international journals, 3 at IEEE conferences) spanning satellite imagery, deep learning, and NLP.
 
-<p align="center">👨‍💻 All of my projects are available at <br><strong><a href="https://github.com/DataRohit" alt="datarohit">https://github.com/DataRohit</a></strong></p>
+Currently expanding into **JavaScript / TypeScript / React / Electron** for desktop application development, and deepening expertise in **Microsoft Agent Frameworks** and **DevUI-based agentic AI workflow automation**.
 
-<p align="center">💬 Ask me about<br><strong>Python, Go Lang, Backend Development, Artificial Intelligence, MCP, Agent-2-Agent and AI Agents</strong></p>
-
-<p align="center">How to reach me<br><strong>rohit.vilas.ingole@gmail.com</strong></p>
-
-<p align="center">📄 Know about my experiences<br><strong><a href="https://github.com/DataRohit/DataRohit/blob/main/Rohit-Vilas-Ingole-Resume.pdf">https://github.com/DataRohit/DataRohit/blob/main/Rohit-Vilas-Ingole-Resume.pdf</a></strong></p>
-
-</div>
-
----
-
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://linkedin.com/in/rohit-vilas-ingole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-vilas-ingole" height="30" width="40" /></a>
-<a href="https://kaggle.com/datarohitingole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="datarohitingole" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=6cUv5BwAAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1200px-Google_Scholar_logo.svg.png" alt="rohit-vilas-ingole" height="30" width="30" /></a>
-</p>
-
----
-
-<h3 align="center">Tech Stack</h3>
-<table align="center">
-  <tr>
-    <td>
-      <h3 align="center">Frontend Development</h3>
-      <p align="center">
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-        </a>
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-        </a>
-      </p>
-    </td>
-    <td>
-      <h3 align="center">Backend Development</h3>
-      <p align="center">
-        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-        </a>
-        <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" width="70" height="40"/>
-        </a>
-        <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-        </a>
-        <a href="https://go.dev/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-        </a>
-        <a href="https://nginx.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-        </a>
-        <a href="https://docs.celeryq.dev/" target="_blank" rel="noreferrer">
-          <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="celery" width="40" height="40"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3 align="center">Data Science and Machine Learning</h3>
-      <p align="center">
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-        </a>
-        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-        </a>
-        <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-          <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-        </a>
-        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-        </a>
-        <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-        </a>
-        <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-        </a>
-        <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-        </a>
-      </p>
-    </td>
-    <td>
-      <h3 align="center">Databases</h3>
-      <p align="center">
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-        </a>
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-        </a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-        </a>
-        <a href="https://redis.io" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-        </a>
-        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-        </a>
-        <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
-        </a>
-        <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3 align="center">DevOps and Containerization</h3>
-      <p align="center">
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-        </a>
-        <a href="https://postman.com" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-        </a>
-        <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
-          <img src="https://www.svgrepo.com/show/354365/sonarqube.svg" alt="sonarqube" width="40" height="40"/>
-        </a>
-        <a href="https://min.io/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" alt="minio" width="40" height="40"/>
-        </a>
-      </p>
-    </td>
-    <td>
-      <h3 align="center">Monitoring and Observability</h3>
-      <p align="center">
-        <a href="https://grafana.com" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-        </a>
-        <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
-        </a>
-        <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
-        </a>
-        <a href="https://www.jaegertracing.io/" target="_blank" rel="noreferrer">
-          <img src="https://www.jaegertracing.io/img/jaeger-icon-color.png" alt="jaeger" width="40" height="40"/>
-        </a>
-        <a href="https://opentelemetry.io/" target="_blank" rel="noreferrer">
-          <img src="https://opentelemetry.io/img/logos/opentelemetry-logo-nav.png" alt="opentelemetry" width="40" height="40"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3 align="center">Message Queues</h3>
-      <p align="center">
-        <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
-        </a>
-        <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-        </a>
-      </p>
-    </td>
-    <td>
-      <h3 align="center">AI & LLMs</h3>
-      <p align="center">
-        <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-          <img src="https://i.ibb.co/B24tkWqY/langchain.png" alt="langchain" width="40" height="40"/>
-        </a>
-        <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
-          <img src="https://i.ibb.co/ks4rYdTF/langgraph.png" alt="langgraph" width="40" height="40"/>
-        </a>
-        <a href="https://www.langchain.com/langsmith" target="_blank" rel="noreferrer">
-          <img src="https://i.ibb.co/xSyqyh99/langsmith.png" alt="langgraph" width="40" height="40"/>
-        </a>
-        <a href="https://microsoft.github.io/autogen/" target="_blank" rel="noreferrer">
-          <img src="https://i.ibb.co/5WTcQFSx/autogen.png" alt="autogen" width="40" height="40"/>
-        </a>
-        <a href="https://github.com/microsoft/agent-framework" target="_blank" rel="noreferrer">
-          <img src="https://i.ibb.co/hpbFcNM/microsoft-agent-framework.png" alt="autogen" width="40" height="40"/>
-        </a>
-        <a href="https://modelcontextprotocol.io/docs/getting-started/intro" target="_blank" rel="noreferrer">
-          <img src="https://i.ibb.co/xKpFJxK1/modelcontextprotocol.png" alt="autogen" width="40" height="40"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3 align="center">WebRTC & Real-time Communication</h3>
-      <p align="center">
-        <a href="https://livekit.io/" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/69438833?s=200&v=4" alt="livekit" width="40" height="40"/>
-        </a>
-      </p>
-    </td>
-    <td>
-      <h3 align="center">Operating Systems</h3>
-      <p align="center">
-        <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="fedora" width="40" height="40"/>
-        </a>
-        <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-          <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="ubuntu" width="40" height="40"/>
-        </a>
-        <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="arch" width="40" height="40"/>
-        </a>
-        <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="40" height="40"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-<h3 align="center">Activity</h3>
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" style="width: 50%; border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=datarohit&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    </td>
-    <td align="center" style="width: 50%; border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=datarohit&show_icons=true&locale=en" alt="GitHub Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=datarohit&" alt="GitHub Streak Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="border: none;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Datarohit/Datarohit/output/github-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Datarohit/Datarohit/output/github-snake.svg" />
-        <img alt="github-snake" src="https://raw.githubusercontent.com/Datarohit/Datarohit/output/github-snake.svg" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
----
-
-<h3 align="center">Profile Views</h3>
-<p align="center">
-  <img src="https://count.getloli.com/get/@datarohit.github.readme" alt="Profile Views">
-</p>
-
----
-
-<h3 align="center">Location</h3>
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [78.3334544, 17.3864985],
-            [78.3334544, 17.4864985]
-          ]
-        ]
-      }
-    }
-  ]
-}
+```text
+🏙️  Location        →  Hyderabad, Telangana, India
+💼  Role            →  Specialist Programmer @ Infosys (Microsoft Project)
+🎓  Education       →  B.Tech Data Science | CGPA 9.34
+📄  Publications    →  5 Research Papers (2 Q-ranked Journals + 3 IEEE Conferences)
+🤖  Focus           →  Agentic AI · Data Mastering · Desktop Apps · MCP · A2A
+📬  Contact         →  rohit.vilas.ingole@gmail.com
 ```
+
+---
+
+## 🚀 What I'm Working On
+
+- 🏗️ **@ Infosys (Microsoft Project)** — Designing and implementing **agentic AI solutions** for data pipeline automation, data mastering, and end-to-end data management workflows
+- 🖥️ **Learning** — JS / TS / React / Electron for **desktop application development**
+- 🤖 **Exploring** — **Microsoft Agent Frameworks** and **DevUI-based agentic AI** for intelligent workflow automation
+
+---
+
+## 🧰 Tech Stack
+
+### 🐍 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### 🔧 Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+
+### 🖥️ Frontend & Desktop
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🤖 AI / ML / LLMs & Agents
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6B21A8?style=flat-square)
+![A2A](https://img.shields.io/badge/A2A-Agent_to_Agent-0F766E?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### ⚙️ DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-66CFE1?style=flat-square)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
+
+### 📨 Message Queues & Real-time
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-E3117A?style=flat-square)
+
+---
+
+## 📚 Research Publications
+
+### 🏆 International Journals (Q-Ranked)
+
+| # | Title | Journal Rank | Link |
+|---|-------|-------------|------|
+| 1 | **TranSegNet: A Hybrid Transformer Model for Satellite Imagery Segmentation with Performance Benchmark Against U-Net Variants** | 🥇 Q2 | — |
+| 2 | **Satellite Image Segmentation of Forest Fire Risk Detection using Gaussian Mixture Models** | 🥈 Q3 | — |
+
+### 🎤 IEEE Conference Papers
+
+| # | Title |
+|---|-------|
+| 1 | **A Content-Based Study and Tweet Analysis of the Russia-Ukraine Conflict** |
+| 2 | **Enhancing Plant Health through Deep Learning Neural Network based Leaf Disease Detection** |
+| 3 | **Refining Cyclonic Cloud Analysis via INSAT-3D Satellite Imagery and Advanced Image Processing Techniques** |
+
+---
+
+## 💼 Experience
+
+```
+🔹 Specialist Programmer       @ Infosys                          Aug 2025 – Present
+   └─ Microsoft Project: Agentic AI for data pipelines, data mastering & automation
+
+🔹 Python Intern               @ Rapid Innovation                 Dec 2024 – Jun 2025
+   └─ Voice AI agents (OpenAI + LiveKit), MCP servers, A2A protocol, LangGraph, AutoGen
+
+🔹 Salesforce Launchpad        @ PwC Acceleration Centers         Jan 2024 – Jul 2024
+   └─ Java, SQL, Salesforce development, enterprise digital transformation
+
+🔹 Python Developer            @ Third Origin LLC                 Sep 2023 – Dec 2023
+   └─ EVOLVE product development, usability testing, Agile
+
+🔹 ML Engineer Intern          @ LeapAI                          Jul 2023 – Oct 2023
+   └─ AI/ML solutions for business transformation
+
+🔹 Data Science Intern         @ iHUB DivyaSampark, IIT Roorkee  Jun 2023 – Aug 2023
+   └─ ML and AI research projects
+```
+
+---
+
+## 🎓 Education
+
+**B.Tech in Data Science** — G.H. Raisoni College of Engineering (GHRCE), Nagpur
+`December 2021 – June 2025` · **CGPA: 9.34 / 10**
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=datarohit&show_icons=true&locale=en&theme=default&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=datarohit&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=datarohit&hide_border=true" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Datarohit/Datarohit/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Datarohit/Datarohit/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Datarohit/Datarohit/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 📜 Certifications
+
+- NLP – Natural Language Processing with Python
+- Fundamentals of Deep Learning
+- Machine Learning A-Z: Hands-On Python & R In Data Science
+- Business Analytics for Management Decisions
+- Data Analytics and Visualization Virtual Experience
+
+---
+
+<div align="center">
+
+📄 **[View My Resume](https://github.com/DataRohit/DataRohit/blob/main/Rohit-Vilas-Ingole-Resume.pdf)**
+
+<img src="https://count.getloli.com/get/@datarohit.github.readme" alt="Profile Views" />
+
+</div>
