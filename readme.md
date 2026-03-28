@@ -1,8 +1,7 @@
 <div align="center" style="margin: 20px 0;">
 <img align="center" src="https://github.com/DataRohit/DataRohit/blob/main/banner.png" alt="rohit-vilas-ingole" width="100%" />
 <h1 align="center">Hi 👋, I'm Rohit Ingole</h1>
-<h3 align="center">I have a B.Tech in Data Science and am currently undergoing Specialist Programmer training at Infosys. I focus on backend development with Python, Django, FastAPI, and Go, and am passionate about building AI coding agents using MCP tools and A2A (agent-to-agent) communication protocol to create intelligent, autonomous systems.</h3>
-
+<h3 align="center">Specialist Programmer @ Infosys | B.Tech in Data Science | 5 Research Papers | Backend & AI Agent Developer | Building Agentic AI Solutions for Data Pipelines & Automation</h3>
 </div>
 
 ---
@@ -11,13 +10,15 @@
 
 <h3 align="center">Bio</h3>
 
-<p align="center">🌱 I'm currently learning <strong>building AI coding agents using MCP tools and A2A (agent-to-agent) communication protocol</strong></p>
+<p align="center">🏢 Currently working as a <strong>Specialist Programmer @ Infosys, Hyderabad</strong> — building <strong>Agentic AI solutions for Microsoft</strong> covering data pipelines, data mastering, and end-to-end data management automations that previously required manual intervention.</p>
 
-<p align="center">👨‍💻 All of my projects are available at <br><strong><a href="https://github.com/DataRohit" alt="datarohit">https://github.com/DataRohit</a></strong></p>
+<p align="center">🌱 I'm currently learning <strong>JavaScript / TypeScript / React / Electron for desktop application development, Microsoft Agent Frameworks, and DevUI-based Agentic AI workflow building for automation</strong></p>
 
-<p align="center">💬 Ask me about<br><strong>Python, Go Lang, Backend Development, Artificial Intelligence, MCP, Agent-2-Agent and AI Agents</strong></p>
+<p align="center">👨‍💻 All of my projects are available at <br><strong><a href="https://github.com/DataRohit">https://github.com/DataRohit</a></strong></p>
 
-<p align="center">How to reach me<br><strong>rohit.vilas.ingole@gmail.com</strong></p>
+<p align="center">💬 Ask me about<br><strong>Python, Go Lang, Backend Development, Artificial Intelligence, MCP, Agent-2-Agent, AI Agents, Data Pipelines, Data Mastering, Microsoft Agent Frameworks</strong></p>
+
+<p align="center">📬 How to reach me<br><strong>rohit.vilas.ingole@gmail.com</strong></p>
 
 <p align="center">📄 Know about my experiences<br><strong><a href="https://github.com/DataRohit/DataRohit/blob/main/Rohit-Vilas-Ingole-Resume.pdf">https://github.com/DataRohit/DataRohit/blob/main/Rohit-Vilas-Ingole-Resume.pdf</a></strong></p>
 
@@ -38,8 +39,31 @@
 <table align="center">
   <tr>
     <td>
-      <h3 align="center">Frontend Development</h3>
+      <h3 align="center">Languages</h3>
       <p align="center">
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        </a>
+        <a href="https://go.dev/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+        </a>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+        </a>
+      </p>
+    </td>
+    <td>
+      <h3 align="center">Frontend & Desktop Development</h3>
+      <p align="center">
+        <a href="https://react.dev/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+        </a>
+        <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
+        </a>
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
         </a>
@@ -54,6 +78,8 @@
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td>
       <h3 align="center">Backend Development</h3>
       <p align="center">
@@ -66,9 +92,6 @@
         <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
         </a>
-        <a href="https://go.dev/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-        </a>
         <a href="https://nginx.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
         </a>
@@ -77,14 +100,9 @@
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td>
       <h3 align="center">Data Science and Machine Learning</h3>
       <p align="center">
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-        </a>
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
         </a>
@@ -105,6 +123,8 @@
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td>
       <h3 align="center">Databases</h3>
       <p align="center">
@@ -131,8 +151,6 @@
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td>
       <h3 align="center">DevOps and Containerization</h3>
       <p align="center">
@@ -150,6 +168,8 @@
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td>
       <h3 align="center">Monitoring and Observability</h3>
       <p align="center">
@@ -170,8 +190,6 @@
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td>
       <h3 align="center">Message Queues</h3>
       <p align="center">
@@ -183,8 +201,10 @@
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td>
-      <h3 align="center">AI & LLMs</h3>
+      <h3 align="center">AI & LLMs & Agent Frameworks</h3>
       <p align="center">
         <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
           <img src="https://i.ibb.co/B24tkWqY/langchain.png" alt="langchain" width="40" height="40"/>
@@ -193,21 +213,19 @@
           <img src="https://i.ibb.co/ks4rYdTF/langgraph.png" alt="langgraph" width="40" height="40"/>
         </a>
         <a href="https://www.langchain.com/langsmith" target="_blank" rel="noreferrer">
-          <img src="https://i.ibb.co/xSyqyh99/langsmith.png" alt="langgraph" width="40" height="40"/>
+          <img src="https://i.ibb.co/xSyqyh99/langsmith.png" alt="langsmith" width="40" height="40"/>
         </a>
         <a href="https://microsoft.github.io/autogen/" target="_blank" rel="noreferrer">
           <img src="https://i.ibb.co/5WTcQFSx/autogen.png" alt="autogen" width="40" height="40"/>
         </a>
         <a href="https://github.com/microsoft/agent-framework" target="_blank" rel="noreferrer">
-          <img src="https://i.ibb.co/hpbFcNM/microsoft-agent-framework.png" alt="autogen" width="40" height="40"/>
+          <img src="https://i.ibb.co/hpbFcNM/microsoft-agent-framework.png" alt="microsoft-agent-framework" width="40" height="40"/>
         </a>
         <a href="https://modelcontextprotocol.io/docs/getting-started/intro" target="_blank" rel="noreferrer">
-          <img src="https://i.ibb.co/xKpFJxK1/modelcontextprotocol.png" alt="autogen" width="40" height="40"/>
+          <img src="https://i.ibb.co/xKpFJxK1/modelcontextprotocol.png" alt="mcp" width="40" height="40"/>
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td>
       <h3 align="center">WebRTC & Real-time Communication</h3>
       <p align="center">
@@ -216,7 +234,9 @@
         </a>
       </p>
     </td>
-    <td>
+  </tr>
+  <tr>
+    <td colspan="2">
       <h3 align="center">Operating Systems</h3>
       <p align="center">
         <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer">
@@ -233,6 +253,50 @@
         </a>
       </p>
     </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">📚 Research Publications</h3>
+
+<h4 align="center">🏆 International Journals (Q-Ranked)</h4>
+
+<table align="center">
+  <tr>
+    <th>Rank</th>
+    <th>Title</th>
+  </tr>
+  <tr>
+    <td align="center">🥇 Q2</td>
+    <td><strong>TranSegNet: A Hybrid Transformer Model for Satellite Imagery Segmentation with Performance Benchmark Against U-Net Variants</strong></td>
+  </tr>
+  <tr>
+    <td align="center">🥈 Q3</td>
+    <td><strong>Satellite Image Segmentation of Forest Fire Risk Detection using Gaussian Mixture Models</strong></td>
+  </tr>
+</table>
+
+<br/>
+
+<h4 align="center">🎤 IEEE Conference Papers</h4>
+
+<table align="center">
+  <tr>
+    <th>#</th>
+    <th>Title</th>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td><strong>A Content-Based Study and Tweet Analysis of the Russia-Ukraine Conflict</strong></td>
+  </tr>
+  <tr>
+    <td align="center">2</td>
+    <td><strong>Enhancing Plant Health through Deep Learning Neural Network based Leaf Disease Detection</strong></td>
+  </tr>
+  <tr>
+    <td align="center">3</td>
+    <td><strong>Refining Cyclonic Cloud Analysis via INSAT-3D Satellite Imagery and Advanced Image Processing Techniques</strong></td>
   </tr>
 </table>
 
@@ -289,8 +353,11 @@
         "type": "Polygon",
         "coordinates": [
           [
-            [78.3334544, 17.3864985],
-            [78.3334544, 17.4864985]
+            [78.3741, 17.3850],
+            [78.5741, 17.3850],
+            [78.5741, 17.5350],
+            [78.3741, 17.5350],
+            [78.3741, 17.3850]
           ]
         ]
       }
