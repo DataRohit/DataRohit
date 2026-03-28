@@ -306,15 +306,15 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" style="width: 50%; border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=datarohit&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=datarohit&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     </td>
     <td align="center" style="width: 50%; border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=datarohit&show_icons=true&locale=en" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=datarohit&show_icons=true&locale=en" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=datarohit&" alt="GitHub Streak Stats" />
+      <img src="https://streak-stats.demolab.com/?user=datarohit" alt="GitHub Streak Stats" />
     </td>
   </tr>
   <tr>
@@ -347,17 +347,18 @@
       "type": "Feature",
       "id": 1,
       "properties": {
-        "ID": 0
+        "ID": 0,
+        "name": "Infosys STP Hyderabad - Gachibowli"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
-            [78.3741, 17.3850],
-            [78.5741, 17.3850],
-            [78.5741, 17.5350],
-            [78.3741, 17.5350],
-            [78.3741, 17.3850]
+            [78.3490, 17.4290],
+            [78.3690, 17.4290],
+            [78.3690, 17.4450],
+            [78.3490, 17.4450],
+            [78.3490, 17.4290]
           ]
         ]
       }
