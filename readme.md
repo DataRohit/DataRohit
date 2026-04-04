@@ -21,15 +21,15 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name        : Rohit Vilas Ingole
-role        : Specialist Programmer @ Infosys
-location    : Hyderabad, Telangana, India
-education   : B.Tech in Data Science | CGPA 9.34 | GHRCE Nagpur
-publications: 5 Research Papers (2 Q-ranked Journals + 3 IEEE Conferences)
-project     : Microsoft — Agentic AI for Data Pipelines, Data Mastering & Automation
-focus       : AI Agents · MCP · A2A Protocol · Backend Systems · Data Engineering
-learning    : JavaScript · TypeScript · React · Electron · Microsoft Agent Frameworks
-contact     : rohit.vilas.ingole@gmail.com
+name          : Rohit Vilas Ingole
+role          : Specialist Programmer @ Infosys
+location      : Hyderabad, Telangana, India
+education     : B.Tech in Data Science | CGPA 9.34 | GHRCE Nagpur
+publications  : 5 Research Papers (2 Q-ranked Journals + 3 IEEE Conferences)
+project       : Microsoft — Agentic AI for Data Pipelines, Data Mastering & Automation
+focus         : AI Agents · MCP · A2A Protocol · Backend Systems · Data Engineering
+learning      : JavaScript · TypeScript · React · Electron · Microsoft Agent Frameworks
+contact       : rohit.vilas.ingole@gmail.com
 ```
 
 <br/>
