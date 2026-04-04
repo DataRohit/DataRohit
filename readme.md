@@ -165,17 +165,17 @@ contact       : rohit.vilas.ingole@gmail.com
       "id": 1,
       "properties": {
         "ID": 0,
-        "name": "Hyderabad Core"
+        "name": "HITEC City - Gachibowli Focus"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
-            [78.3000, 17.3000],
-            [78.6000, 17.3000],
-            [78.6000, 17.5500],
-            [78.3000, 17.5500],
-            [78.3000, 17.3000]
+            [78.3200, 17.4100],
+            [78.4200, 17.4100],
+            [78.4200, 17.4800],
+            [78.3200, 17.4800],
+            [78.3200, 17.4100]
           ]
         ]
       }
