@@ -165,17 +165,17 @@ contact       : rohit.vilas.ingole@gmail.com
       "id": 1,
       "properties": {
         "ID": 0,
-        "name": "Infosys STP Hyderabad, Gachibowli"
+        "name": "Hyderabad City"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
-            [78.3490, 17.4290],
-            [78.3690, 17.4290],
-            [78.3690, 17.4450],
-            [78.3490, 17.4450],
-            [78.3490, 17.4290]
+            [78.2000, 17.2000],
+            [78.7000, 17.2000],
+            [78.7000, 17.6500],
+            [78.2000, 17.6500],
+            [78.2000, 17.2000]
           ]
         ]
       }
